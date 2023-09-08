@@ -1,0 +1,41 @@
+
+.search-button {
+    background-color: transparent;
+    border: 2px solid rgb(26, 216, 223);
+    color: rgb(26, 216, 223);
+    display: block;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 40px 10px 10px 40px;
+    width: 150px;
+    font-weight: bold;
+
+    
+}
+
+
+.plus-button {
+    background-color: rgb(26, 216, 223);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 24px;
+    cursor: pointer;
+    display: block;
+    margin: 10px 40px;
+}
+
+.create-account-button {
+    background-color: rgb(51, 97, 214);
+    color: white;
+    border: 2px solid black;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px rgb(14, 14, 14);
+    display: block;
+    margin: 10px 40px;
+    width: 200px;
+}
